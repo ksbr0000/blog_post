@@ -23,6 +23,16 @@ const Home = () => (
           boxShadow: '0px 4px 12px rgba(0, 255, 174, 0.6)',
         }}
       />
+       <img
+        src="./Rick-And-Morty.webp"
+        alt="Rick and Morty"
+        style={{
+          width: '80%',
+          maxWidth: '500px',
+          borderRadius: '15px',
+          boxShadow: '0px 4px 12px rgba(0, 255, 174, 0.6)',
+        }}
+      />
     </div>
     <h1 style={{  color: '#00ffae', padding: '20px' }}>
       Click on <span style={{ color: '#ff618b' }}>Characters</span> to view the wonders of the Rick and Morty Universe!
